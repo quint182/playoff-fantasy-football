@@ -1,2 +1,2 @@
-# Playoff-Fantasy-Football
+# playoff-fantasy-football
 Fantasy Football for NFL Playoffs
