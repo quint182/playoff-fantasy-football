@@ -1,5 +1,6 @@
 "use client";
 
+
 import { useEffect, useState } from "react";
 import { useSearchParams, useRouter } from "next/navigation";
 import { supabase } from "/Users/quint/Documents/GitHub/playoff-fantasy-football/lib/supabaseClient";
